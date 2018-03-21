@@ -6,5 +6,7 @@ public class Main {
         Square s = new Square(2,3);
         q.displayObject(r);
         q.displayObject(s);
+
+        
     }
 }
